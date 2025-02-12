@@ -1,0 +1,7 @@
+k = 13 
+xstart = 0
+xend = 14
+for x in range (xstart, xend+1):
+    y = k * x
+    print("("+ str(x) + "," +str(y)+ ")")
+print("i hate/love gml")
